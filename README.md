@@ -1,4 +1,4 @@
-## Hello everyone 👋 | It's me, Akbar Gyaranto Saputra!
+## Hello everyone 👋 | My Name, Akbar Gyaranto Saputra!
 ![Cover](https://i.pinimg.com/564x/f0/a3/60/f0a36077ca765854394717323ab7540d.jpg)
 ### Meet me at other social networks  
 <a href="https://github.com/akbargyaranto" target="_blank">
@@ -19,10 +19,10 @@ Hello! My name is Akbar Gyaranto Saputra and I am a student. I am 18 years old. 
 - 📫 How to reach me **akbarxploit09@gmail.com**
   
 
-- 🌱 I’m currently learning Arduino, Front-End Development, and more
+- 🌱 I’m currently learning Microcontroller, Front-End Development, and more
   
 
-- ❓ Ask me about anything related to Computer Science and Microcontroller Systems
+- ❓ Ask me about anything related to Computer Science 
   
 
 - ⚡ Fun fact about me ? I'm ordinary
